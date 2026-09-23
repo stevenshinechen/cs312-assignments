@@ -12,6 +12,8 @@ For running on your own CUDA GPU or a non-course Slurm cluster without Modal, re
 
 Course handouts are distributed separately.
 
+For self-study using your own Modal account, see [SELF_STUDY_SETUP.md](SELF_STUDY_SETUP.md).
+
 This release includes only the default-run and LR-tuning examples below. The
 assignment PDF includes code snippets and names problem-specific experiment
 files; those files are not bundled. Create your own experiments using the
